@@ -1,0 +1,9 @@
+{
+  "name": "NoteSync",
+  "version": "1.0.0",
+  "description": "an app that sync notes in multiple devices",
+  "main": "./dist/src/index.js",
+  "repository": "https://github.com/leozin-ardo/noteSync",
+  "author": "Leonardo A R De Oliveira <leonardo16almeida@gmail.com>",
+  "license": "MIT"
+}
